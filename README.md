@@ -1,1 +1,2 @@
-# research-notes
+"# Research Notes"
+"Day 1"
